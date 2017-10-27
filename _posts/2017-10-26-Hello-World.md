@@ -1,6 +1,6 @@
 ---
-layout:post
-title:Hello World
+layout: post
+title: Hello World
 ---
 
 Hello My name is Alex Hun. with GitHub page.
